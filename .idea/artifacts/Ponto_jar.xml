@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ponto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ponto_jar</output-path>
+    <root id="archive" name="Ponto.jar">
+      <element id="module-output" name="Ponto" />
+    </root>
+  </artifact>
+</component>
